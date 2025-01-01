@@ -1,1 +1,1 @@
-console.log("This is the home branch game.")
+console.log("This is the game branch game.")
